@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kwchui.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/kwchui.github.io/static/js/main.babbc24d.chunk.js",
+    "main.js.map": "/kwchui.github.io/static/js/main.babbc24d.chunk.js.map",
+    "runtime-main.js": "/kwchui.github.io/static/js/runtime-main.80c7f4f5.js",
+    "runtime-main.js.map": "/kwchui.github.io/static/js/runtime-main.80c7f4f5.js.map",
+    "static/js/2.cdebb5d1.chunk.js": "/kwchui.github.io/static/js/2.cdebb5d1.chunk.js",
+    "static/js/2.cdebb5d1.chunk.js.map": "/kwchui.github.io/static/js/2.cdebb5d1.chunk.js.map",
+    "static/js/3.632e3d68.chunk.js": "/kwchui.github.io/static/js/3.632e3d68.chunk.js",
+    "static/js/3.632e3d68.chunk.js.map": "/kwchui.github.io/static/js/3.632e3d68.chunk.js.map",
+    "index.html": "/kwchui.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/kwchui.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.cdebb5d1.chunk.js.LICENSE.txt": "/kwchui.github.io/static/js/2.cdebb5d1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kwchui.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80c7f4f5.js",
+    "static/js/2.cdebb5d1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.babbc24d.chunk.js"
+  ]
+}
